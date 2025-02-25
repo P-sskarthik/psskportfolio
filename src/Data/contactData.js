@@ -1,0 +1,36 @@
+import { AtSign, Github, Linkedin, Phone } from "lucide-react";
+
+export const contactData = [
+    {
+      id: 1,
+      icon: <AtSign className="inline"/>,
+      title: "email",
+      link: "saisuryakarthik1@icloud.com",
+      desc: "saisuryakarthik1@icloud.com",
+      color:'red-300',
+    },
+    {
+      id: 2,
+      icon: <Phone />,
+      title: "phone",
+      link: "+1 (909)-619-9726",
+      desc: "+1 (909)-619-9726",
+      color:"green",
+    },
+    {
+      id: 8,
+      icon: <Linkedin/>,
+      title: "linkdin",
+      link: "https://www.linkedin.com/in/sai-surya-karthik-p-a80ba5197/",
+      desc: "sai-surya-karthik-p-a80ba5197",
+      color: "blue",
+    },
+    {
+      id: 4,
+      icon: <Github />,
+      title: "github",
+      link: "https://github.com/ssk9293",
+      desc: "Sai Surya Karthik",
+      color: "gray",
+    },
+  ];
