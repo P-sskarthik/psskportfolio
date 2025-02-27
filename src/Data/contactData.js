@@ -4,15 +4,15 @@ export const contactData = [
     {
       id: 1,
       icon: <AtSign className="inline"/>,
-      title: "email",
-      link: "saisuryakarthik1@icloud.com",
-      desc: "saisuryakarthik1@icloud.com",
+      title: "Email",
+      link: "saisuryakarthik.p@gmail.com",
+      desc: "saisuryakarthik.p@gmail.com",
       color:'red-300',
     },
     {
       id: 2,
       icon: <Phone />,
-      title: "phone",
+      title: "Phone",
       link: "+1 (909)-619-9726",
       desc: "+1 (909)-619-9726",
       color:"green",
@@ -20,7 +20,7 @@ export const contactData = [
     {
       id: 8,
       icon: <Linkedin/>,
-      title: "linkdin",
+      title: "LinkedIn",
       link: "https://www.linkedin.com/in/sai-surya-karthik-p-a80ba5197/",
       desc: "sai-surya-karthik-p-a80ba5197",
       color: "blue",
@@ -28,7 +28,7 @@ export const contactData = [
     {
       id: 4,
       icon: <Github />,
-      title: "github",
+      title: "GitHub",
       link: "https://github.com/ssk9293",
       desc: "Sai Surya Karthik",
       color: "gray",
