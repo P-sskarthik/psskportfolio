@@ -22,7 +22,7 @@ export const SkillData = [
       {
         id: 4,
         title: "Tools:",
-        description:"VS Code, Git, WordPress, Unity, Sketchbook",
+        description:"VS Code, Git, WordPress, Unity",
         color:'red-300',
       },
       {

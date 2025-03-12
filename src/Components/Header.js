@@ -29,9 +29,7 @@ const Header = () => {
               <p className=' text-zinc-500 hover:text-zinc-300'>Projects</p>
             </NavLink>
             <NavLink to={"/contact"}>
-              <p className='text-sm duration-500 text-zinc-500 hover:text-zinc-300'>
-                Contact
-              </p>
+              <p className='text-sm duration-500 text-zinc-500 hover:text-zinc-300'>Contact</p>
             </NavLink>
           </div>
         </div>

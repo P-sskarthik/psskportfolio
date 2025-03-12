@@ -12,7 +12,7 @@ export const projectData = [
     id: uuidv4(),
     title: "Netflix-GPT",
     
-    type: "The MOVIES-GPT App",
+    type: "AI-Powered Movie Suggestions",
     emoji: "🤖",
     git: "https://github.com/ssk9293/NETFLIX-GPT",
     desc: "This App revolutionizes the way users engage with and discover content on Netflix by harnessing the power of AI-driven personalization and natural language interaction."

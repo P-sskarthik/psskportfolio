@@ -33,9 +33,12 @@ const Home = () => {
         <div
           className='absolute inset-0 -z-10 animate-fade-in'
           aria-hidden='true'></div>
-        <h1 className='z-10 text-4xl text-transparent duration-100 text-white bg-white cursor-default text-edge-outline animate-title font-bold sm:text-6xl md:text-9xl whitespace-nowrap bg-clip-text '>
+        <h1 className='z-10 text-4xl text-transparent  bg-gradient-to-r from-red-500 to-blue-500 text-edge-outline animate-title font-bold sm:text-6xl md:text-8xl whitespace-nowrap bg-clip-text '>
           Sai Surya Karthik
         </h1>
+        <h2 className='z-10 text-4xl text-transparent duration-100 text-white bg-white cursor-default text-edge-outline animate-title font-bold sm:text-6xl md:text-4xl m-4 whitespace-nowrap bg-clip-text '>
+        Software Engineer
+        </h2>
         <div className='hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0'></div>
         <div className='my-16 text-center animate-fade-in'>
           <h2 className='text-lg text-zinc-500 mx-5  '>

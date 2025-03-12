@@ -1,3 +1,4 @@
+import { link } from "framer-motion/client";
 import { AtSign, Github, Linkedin, Phone } from "lucide-react";
 
 export const contactData = [
@@ -5,15 +6,14 @@ export const contactData = [
       id: 1,
       icon: <AtSign className="inline"/>,
       title: "Email",
-      link: "saisuryakarthik.p@gmail.com",
       desc: "saisuryakarthik.p@gmail.com",
+      link: "mailto:saisuryakarthik.p@gmail.com",
       color:'red-300',
     },
     {
       id: 2,
       icon: <Phone />,
       title: "Phone",
-      link: "+1 (909)-619-9726",
       desc: "+1 (909)-619-9726",
       color:"green",
     },
